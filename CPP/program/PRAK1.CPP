@@ -1,3 +1,11 @@
+/*
+Saya Nama Roshan Syalwan Nurilham [2203142] mengerjakan 
+Latihan 1 DPBO
+dalam mata kuliah 
+DPBO
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+*/
+
 #include <iostream>
 #include <string>
 
