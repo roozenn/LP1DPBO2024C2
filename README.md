@@ -19,5 +19,5 @@ e.Stop: Menghentikan program.
 4. Setelah memilih fitur, pengguna diminta untuk memberikan input tambahan sesuai dengan fitur yang dipilih.
 
 **Dokumentasi:**
-Dokumentasi program dapat diakses di link berikut:.
+Dokumentasi program dapat diakses di link berikut: https://drive.google.com/file/d/1NdnZimA1BqNeWOn9BBRqpbzb6Mz9ToPb/view?usp=sharing
 Silakan periksa dokumentasi untuk detail lebih lanjut mengenai struktur program dan contoh penggunaan fitur-fitur yang disediakan.
