@@ -1,3 +1,7 @@
+# Saya Nama Roshan Syalwan Nurilham [2203142] mengerjakan soal lat1 prak dpbo dalam mata kuliah dpbo 
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+
+
 class Human:
     def __init__(self, id, name, bidang, partai):
         self.id = id
