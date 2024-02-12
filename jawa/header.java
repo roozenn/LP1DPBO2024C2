@@ -1,3 +1,8 @@
+/*
+Saya Nama Roshan Syalwan Nurilham [2203142] mengerjakan soal lat1 prak dpbo dalam mata kuliah dpbo 
+untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+*/
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
