@@ -1,5 +1,4 @@
 # LP1DPBO2024C2
-Pengumpulan Latihan Praktikum 1 DPBO
 
 **Desain Program:**
 Program ini dirancang untuk mengelola sebuah list dengan menu pilihan yang mencakup tambah, ubah, hapus, lihat, dan berhenti. Pengguna dapat memilih dan menggunakan fitur sesuai kebutuhan.
